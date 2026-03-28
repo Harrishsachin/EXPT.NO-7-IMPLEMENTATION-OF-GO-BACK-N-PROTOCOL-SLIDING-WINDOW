@@ -40,7 +40,7 @@ printf("No Acknowlegement for frame %d... \n",ack); printf("Resending frames sta
 }
 }
 printf("\n All frames sent successfully.\n");
-}
+} 
 ```
 # OUTPUT
 
